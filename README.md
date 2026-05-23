@@ -1,0 +1,2 @@
+# CodeAlpha_EmotionRecognition_AaminaKhan
+CodeAlpha_EmotionRecognition By Aamina Khsn
